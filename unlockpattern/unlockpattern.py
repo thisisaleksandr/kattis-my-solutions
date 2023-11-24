@@ -22,3 +22,5 @@ for j in range(1, 9):
             counter += x5
         else:
             counter += x2
+    
+print(counter)
