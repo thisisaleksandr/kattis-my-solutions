@@ -11,4 +11,4 @@ def evaluate(a, b, c):
         if flag:
             break
 a, b, c = input().split()
-evaluate(a, b, c)
+evaluate(a, b, c)  
